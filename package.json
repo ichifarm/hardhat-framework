@@ -1,5 +1,5 @@
 {
-  "name": "@ichifarm/hardhat-framework",
+  "name": "@ichi.org/hardhat-framework",
   "version": "1.1.5",
   "description": "Common test utilities for hardhat development",
   "main": "index.js",
